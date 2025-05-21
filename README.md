@@ -1,4 +1,4 @@
-# afrijeng-server
+### Afrijeng Cyber Warnet Server
 
 To install dependencies:
 
@@ -11,7 +11,7 @@ To run:
 ```bash
 bun run index.js
 ```
-# database setup
+### Database setup
 ```env
 DB_HOST=your_localhost
 DB_USER=your_user
